@@ -1,0 +1,14 @@
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\openingHours\obj\Debug\net8.0\openingHours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\openingHours\obj\Debug\net8.0\openingHours.AssemblyInfoInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\openingHours\obj\Debug\net8.0\openingHours.AssemblyInfo.cs
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\openingHours\obj\Debug\net8.0\openingHours.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\openingHours\bin\Debug\net8.0\openingHours.exe
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\openingHours\bin\Debug\net8.0\openingHours.deps.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\openingHours\bin\Debug\net8.0\openingHours.runtimeconfig.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\openingHours\bin\Debug\net8.0\openingHours.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\openingHours\bin\Debug\net8.0\openingHours.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\openingHours\obj\Debug\net8.0\openingHours.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\openingHours\obj\Debug\net8.0\refint\openingHours.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\openingHours\obj\Debug\net8.0\openingHours.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\openingHours\obj\Debug\net8.0\openingHours.genruntimeconfig.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\openingHours\obj\Debug\net8.0\ref\openingHours.dll
